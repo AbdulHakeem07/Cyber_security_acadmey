@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-labelledby="title desc">
+<title id="title">Penetration testing cybersecurity illustration</title>
+<desc id="desc">Original abstract illustration for the Penetration testing lesson in Security Operations.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102b32"/><stop offset="1" stop-color="#17263a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b18cff"/><stop offset="1" stop-color="#72d9e8"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#b18cff" stop-opacity=".27"/><stop offset="1" stop-color="#b18cff" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" fill="none" stroke="#d5f7ef" stroke-opacity=".045"/></pattern>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="11" stdDeviation="12" flood-color="#030b12" flood-opacity=".45"/></filter>
+</defs>
+<rect width="640" height="380" rx="24" fill="url(#bg)"/>
+<rect width="640" height="380" rx="24" fill="url(#grid)"/>
+<circle cx="145" cy="110" r="210" fill="url(#glow)"/>
+<circle cx="495" cy="275" r="190" fill="url(#glow)"/>
+<path d="M352 203 Q204 174 57 65" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M518 229 Q403 209 288 109" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M327 152 Q321 177 315 122" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M39 61 Q264 194 490 247" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M316 136 Q321 269 327 322" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M465 223 Q312 302 160 301" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><circle cx="352" cy="203" r="6" fill="#72d9e8" fill-opacity=".32"/><circle cx="57" cy="65" r="5" fill="#72d9e8" fill-opacity=".32"/><circle cx="518" cy="229" r="5" fill="#72d9e8" fill-opacity=".38"/><circle cx="288" cy="109" r="3" fill="#72d9e8" fill-opacity=".42"/><circle cx="327" cy="152" r="3" fill="#72d9e8" fill-opacity=".56"/><circle cx="315" cy="122" r="6" fill="#72d9e8" fill-opacity=".51"/><circle cx="39" cy="61" r="6" fill="#72d9e8" fill-opacity=".52"/><circle cx="490" cy="247" r="3" fill="#72d9e8" fill-opacity=".50"/><circle cx="316" cy="136" r="3" fill="#72d9e8" fill-opacity=".45"/><circle cx="327" cy="322" r="3" fill="#72d9e8" fill-opacity=".60"/><circle cx="465" cy="223" r="3" fill="#72d9e8" fill-opacity=".34"/><circle cx="160" cy="301" r="6" fill="#72d9e8" fill-opacity=".32"/><circle cx="54" cy="198" r="5" fill="#72d9e8" fill-opacity=".51"/>
+<g filter="url(#shadow)">
+  <circle cx="320" cy="143" r="86" fill="#132b37" stroke="url(#accent)" stroke-width="3" stroke-opacity=".72"/>
+  <path d="M320 72 373 94v42c0 39-22 67-53 83-31-16-53-44-53-83V94l53-22Z" fill="#183440" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="320" cy="129" r="42" fill="#0e202d" fill-opacity=".72"/>
+  <circle cx="320" cy="128" r="31" fill="none" stroke="#72d9e8" stroke-width="4"/><circle cx="320" cy="128" r="19" fill="none" stroke="#72d9e8" stroke-width="3" opacity=".8"/><path d="m320 128 23-21m-23 21h-27m27 0 15 18" stroke="#72d9e8" stroke-width="4" stroke-linecap="round"/><circle cx="343" cy="107" r="5" fill="#72d9e8"/>
+  <rect x="380" y="88" width="60" height="32" rx="16" fill="url(#accent)" transform="rotate(2 410 104)"/>
+  <text x="410" y="110" text-anchor="middle" fill="#10252c" font-family="Arial,sans-serif" font-size="13" font-weight="800">PT</text>
+</g>
+<path d="M36 304H604" stroke="#b18cff" stroke-opacity=".4"/>
+<text x="38" y="338" fill="#f2f7f5" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing=".2">Penetration testing</text>
+<text x="40" y="361" fill="#72d9e8" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">SECURITY OPERATIONS  ?  CYBERSECURITY</text>
+<text x="602" y="342" text-anchor="end" fill="#c4d5d4" fill-opacity=".65" font-family="Arial,sans-serif" font-size="12" font-weight="700">20 / 38</text>
+</svg>

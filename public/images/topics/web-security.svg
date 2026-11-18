@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-labelledby="title desc">
+<title id="title">Web security cybersecurity illustration</title>
+<desc id="desc">Original abstract illustration for the Web security lesson in Application Security.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102b32"/><stop offset="1" stop-color="#17263a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#51c7a8"/><stop offset="1" stop-color="#7ddcff"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#51c7a8" stop-opacity=".27"/><stop offset="1" stop-color="#51c7a8" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" fill="none" stroke="#d5f7ef" stroke-opacity=".045"/></pattern>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="11" stdDeviation="12" flood-color="#030b12" flood-opacity=".45"/></filter>
+</defs>
+<rect width="640" height="380" rx="24" fill="url(#bg)"/>
+<rect width="640" height="380" rx="24" fill="url(#grid)"/>
+<circle cx="123" cy="99" r="210" fill="url(#glow)"/>
+<circle cx="506" cy="283" r="190" fill="url(#glow)"/>
+<path d="M353 283 Q255 275 158 187" stroke="#51c7a8" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M202 174 Q396 153 590 52" stroke="#51c7a8" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M331 75 Q266 140 201 126" stroke="#51c7a8" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M68 81 Q55 230 42 299" stroke="#51c7a8" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M435 91 Q471 190 508 209" stroke="#51c7a8" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M146 70 Q260 106 374 62" stroke="#51c7a8" stroke-opacity=".19" stroke-width="2" fill="none"/><circle cx="353" cy="283" r="6" fill="#7ddcff" fill-opacity=".38"/><circle cx="158" cy="187" r="5" fill="#7ddcff" fill-opacity=".61"/><circle cx="202" cy="174" r="5" fill="#7ddcff" fill-opacity=".61"/><circle cx="590" cy="52" r="6" fill="#7ddcff" fill-opacity=".43"/><circle cx="331" cy="75" r="4" fill="#7ddcff" fill-opacity=".50"/><circle cx="201" cy="126" r="6" fill="#7ddcff" fill-opacity=".34"/><circle cx="68" cy="81" r="6" fill="#7ddcff" fill-opacity=".34"/><circle cx="42" cy="299" r="3" fill="#7ddcff" fill-opacity=".56"/><circle cx="435" cy="91" r="5" fill="#7ddcff" fill-opacity=".38"/><circle cx="508" cy="209" r="4" fill="#7ddcff" fill-opacity=".33"/><circle cx="146" cy="70" r="3" fill="#7ddcff" fill-opacity=".39"/><circle cx="374" cy="62" r="4" fill="#7ddcff" fill-opacity=".47"/><circle cx="481" cy="99" r="3" fill="#7ddcff" fill-opacity=".54"/>
+<g filter="url(#shadow)">
+  <circle cx="320" cy="143" r="86" fill="#132b37" stroke="url(#accent)" stroke-width="3" stroke-opacity=".72"/>
+  <path d="M320 72 373 94v42c0 39-22 67-53 83-31-16-53-44-53-83V94l53-22Z" fill="#183440" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="320" cy="129" r="42" fill="#0e202d" fill-opacity=".72"/>
+  <path d="M299 107h-11v42h11m42-42h11v42h-11m-25-3 8-39" fill="none" stroke="#7ddcff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="380" y="88" width="60" height="32" rx="16" fill="url(#accent)" transform="rotate(-11 410 104)"/>
+  <text x="410" y="110" text-anchor="middle" fill="#10252c" font-family="Arial,sans-serif" font-size="13" font-weight="800">WS</text>
+</g>
+<path d="M36 304H604" stroke="#51c7a8" stroke-opacity=".4"/>
+<text x="38" y="338" fill="#f2f7f5" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing=".2">Web security</text>
+<text x="40" y="361" fill="#7ddcff" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">APPLICATION SECURITY  ?  CYBERSECURITY</text>
+<text x="602" y="342" text-anchor="end" fill="#c4d5d4" fill-opacity=".65" font-family="Arial,sans-serif" font-size="12" font-weight="700">36 / 38</text>
+</svg>

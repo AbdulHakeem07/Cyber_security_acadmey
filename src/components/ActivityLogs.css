@@ -1,0 +1,188 @@
+
+.activity-section {
+  margin: 35px 0;
+  color: #e8edf7;
+}
+
+.activity-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.activity-eyebrow {
+  color: #20dca5;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.activity-heading h2 {
+  margin: 8px 0;
+  font-size: 25px;
+}
+
+.activity-heading p {
+  margin: 0;
+  color: #8996ab;
+  font-size: 14px;
+}
+
+.refresh-logs-button {
+  padding: 11px 15px;
+  color: #20dca5;
+  background: #12332e;
+  border: 1px solid #28614f;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.refresh-logs-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.activity-summary {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-bottom: 18px;
+}
+
+.activity-summary-card {
+  padding: 18px;
+  background: #111a2b;
+  border: 1px solid #25334b;
+  border-radius: 11px;
+}
+
+.activity-summary-card span {
+  display: block;
+  margin-bottom: 12px;
+  color: #8290a6;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.activity-summary-card strong {
+  font-size: 25px;
+}
+
+.activity-success-number {
+  color: #20dca5;
+}
+
+.activity-failed-number {
+  color: #ff879d;
+}
+
+.activity-table-panel {
+  overflow: hidden;
+  background: #111a2b;
+  border: 1px solid #25334b;
+  border-radius: 12px;
+}
+
+.activity-table-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 19px 20px;
+  border-bottom: 1px solid #25334b;
+}
+
+.activity-table-heading h3 {
+  margin: 0;
+  font-size: 15px;
+}
+
+.activity-table-heading span {
+  color: #8290a6;
+  font-size: 11px;
+}
+
+.activity-table-wrapper {
+  overflow-x: auto;
+}
+
+.activity-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.activity-table th {
+  padding: 14px 16px;
+  color: #8290a6;
+  background: #0c1524;
+  font-size: 10px;
+  letter-spacing: 0.8px;
+}
+
+.activity-table td {
+  padding: 15px 16px;
+  color: #bdc9da;
+  border-top: 1px solid #25334b;
+  font-size: 12px;
+}
+
+.activity-table tbody tr:hover {
+  background: #172338;
+}
+
+.activity-status {
+  display: inline-block;
+  padding: 5px 9px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.activity-status-success {
+  color: #4de0a2;
+  background: #103326;
+}
+
+.activity-status-failed {
+  color: #ff879d;
+  background: #351b27;
+}
+
+.activity-message {
+  padding: 25px;
+  color: #8996ab;
+  font-size: 13px;
+  text-align: center;
+}
+
+.activity-error {
+  padding: 20px;
+  color: #ff879d;
+  font-size: 13px;
+}
+
+.activity-error button {
+  padding: 8px 12px;
+  color: #20dca5;
+  background: #12332e;
+  border: 1px solid #28614f;
+  border-radius: 6px;
+}
+
+@media (max-width: 650px) {
+  .activity-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .activity-summary {
+    grid-template-columns: 1fr;
+  }
+}

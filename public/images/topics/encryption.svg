@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-labelledby="title desc">
+<title id="title">Encryption cybersecurity illustration</title>
+<desc id="desc">Original abstract illustration for the Encryption lesson in Core Concepts.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102b32"/><stop offset="1" stop-color="#17263a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9b8cff"/><stop offset="1" stop-color="#d2a7ff"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#9b8cff" stop-opacity=".27"/><stop offset="1" stop-color="#9b8cff" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" fill="none" stroke="#d5f7ef" stroke-opacity=".045"/></pattern>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="11" stdDeviation="12" flood-color="#030b12" flood-opacity=".45"/></filter>
+</defs>
+<rect width="640" height="380" rx="24" fill="url(#bg)"/>
+<rect width="640" height="380" rx="24" fill="url(#grid)"/>
+<circle cx="134" cy="104" r="210" fill="url(#glow)"/>
+<circle cx="501" cy="279" r="190" fill="url(#glow)"/>
+<path d="M517 213 Q529 266 541 240" stroke="#9b8cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M571 216 Q555 192 539 88" stroke="#9b8cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M242 253 Q248 287 254 242" stroke="#9b8cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M582 185 Q406 223 230 182" stroke="#9b8cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M277 147 Q387 225 498 223" stroke="#9b8cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M406 310 Q365 276 325 163" stroke="#9b8cff" stroke-opacity=".19" stroke-width="2" fill="none"/><circle cx="517" cy="213" r="6" fill="#d2a7ff" fill-opacity=".65"/><circle cx="541" cy="240" r="5" fill="#d2a7ff" fill-opacity=".58"/><circle cx="571" cy="216" r="4" fill="#d2a7ff" fill-opacity=".44"/><circle cx="539" cy="88" r="6" fill="#d2a7ff" fill-opacity=".28"/><circle cx="242" cy="253" r="6" fill="#d2a7ff" fill-opacity=".45"/><circle cx="254" cy="242" r="6" fill="#d2a7ff" fill-opacity=".40"/><circle cx="582" cy="185" r="3" fill="#d2a7ff" fill-opacity=".65"/><circle cx="230" cy="182" r="5" fill="#d2a7ff" fill-opacity=".63"/><circle cx="277" cy="147" r="6" fill="#d2a7ff" fill-opacity=".25"/><circle cx="498" cy="223" r="5" fill="#d2a7ff" fill-opacity=".28"/><circle cx="406" cy="310" r="3" fill="#d2a7ff" fill-opacity=".34"/><circle cx="325" cy="163" r="3" fill="#d2a7ff" fill-opacity=".47"/><circle cx="373" cy="321" r="4" fill="#d2a7ff" fill-opacity=".58"/>
+<g filter="url(#shadow)">
+  <circle cx="320" cy="143" r="86" fill="#132b37" stroke="url(#accent)" stroke-width="3" stroke-opacity=".72"/>
+  <path d="M320 72 373 94v42c0 39-22 67-53 83-31-16-53-44-53-83V94l53-22Z" fill="#183440" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="320" cy="129" r="42" fill="#0e202d" fill-opacity=".72"/>
+  <rect x="300" y="119" width="40" height="32" rx="6" fill="none" stroke="#d2a7ff" stroke-width="5"/><path d="M308 119v-9a12 12 0 0 1 24 0v9m-12 12v8" fill="none" stroke="#d2a7ff" stroke-width="5" stroke-linecap="round"/>
+  <rect x="380" y="88" width="60" height="32" rx="16" fill="url(#accent)" transform="rotate(3 410 104)"/>
+  <text x="410" y="110" text-anchor="middle" fill="#10252c" font-family="Arial,sans-serif" font-size="13" font-weight="800">ENC</text>
+</g>
+<path d="M36 304H604" stroke="#9b8cff" stroke-opacity=".4"/>
+<text x="38" y="338" fill="#f2f7f5" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing=".2">Encryption</text>
+<text x="40" y="361" fill="#d2a7ff" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">CORE CONCEPTS  ?  CYBERSECURITY</text>
+<text x="602" y="342" text-anchor="end" fill="#c4d5d4" fill-opacity=".65" font-family="Arial,sans-serif" font-size="12" font-weight="700">05 / 38</text>
+</svg>

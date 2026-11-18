@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-labelledby="title desc">
+<title id="title">Sandbox cybersecurity illustration</title>
+<desc id="desc">Original abstract illustration for the Sandbox lesson in Security Operations.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102b32"/><stop offset="1" stop-color="#17263a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b18cff"/><stop offset="1" stop-color="#72d9e8"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#b18cff" stop-opacity=".27"/><stop offset="1" stop-color="#b18cff" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" fill="none" stroke="#d5f7ef" stroke-opacity=".045"/></pattern>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="11" stdDeviation="12" flood-color="#030b12" flood-opacity=".45"/></filter>
+</defs>
+<rect width="640" height="380" rx="24" fill="url(#bg)"/>
+<rect width="640" height="380" rx="24" fill="url(#grid)"/>
+<circle cx="156" cy="115" r="210" fill="url(#glow)"/>
+<circle cx="490" cy="272" r="190" fill="url(#glow)"/>
+<path d="M435 206 Q383 261 331 237" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M64 222 Q140 223 217 144" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M444 106 Q426 161 408 137" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M252 251 Q407 227 563 123" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M378 242 Q455 189 533 56" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M114 326 Q274 350 435 309" stroke="#b18cff" stroke-opacity=".19" stroke-width="2" fill="none"/><circle cx="435" cy="206" r="3" fill="#72d9e8" fill-opacity=".28"/><circle cx="331" cy="237" r="3" fill="#72d9e8" fill-opacity=".29"/><circle cx="64" cy="222" r="3" fill="#72d9e8" fill-opacity=".43"/><circle cx="217" cy="144" r="3" fill="#72d9e8" fill-opacity=".58"/><circle cx="444" cy="106" r="4" fill="#72d9e8" fill-opacity=".41"/><circle cx="408" cy="137" r="5" fill="#72d9e8" fill-opacity=".37"/><circle cx="252" cy="251" r="5" fill="#72d9e8" fill-opacity=".42"/><circle cx="563" cy="123" r="5" fill="#72d9e8" fill-opacity=".63"/><circle cx="378" cy="242" r="4" fill="#72d9e8" fill-opacity=".64"/><circle cx="533" cy="56" r="5" fill="#72d9e8" fill-opacity=".54"/><circle cx="114" cy="326" r="6" fill="#72d9e8" fill-opacity=".40"/><circle cx="435" cy="309" r="6" fill="#72d9e8" fill-opacity=".50"/><circle cx="451" cy="248" r="3" fill="#72d9e8" fill-opacity=".50"/>
+<g filter="url(#shadow)">
+  <circle cx="320" cy="143" r="86" fill="#132b37" stroke="url(#accent)" stroke-width="3" stroke-opacity=".72"/>
+  <path d="M320 72 373 94v42c0 39-22 67-53 83-31-16-53-44-53-83V94l53-22Z" fill="#183440" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="320" cy="129" r="42" fill="#0e202d" fill-opacity=".72"/>
+  <circle cx="320" cy="128" r="31" fill="none" stroke="#72d9e8" stroke-width="4"/><circle cx="320" cy="128" r="19" fill="none" stroke="#72d9e8" stroke-width="3" opacity=".8"/><path d="m320 128 23-21m-23 21h-27m27 0 15 18" stroke="#72d9e8" stroke-width="4" stroke-linecap="round"/><circle cx="343" cy="107" r="5" fill="#72d9e8"/>
+  <rect x="380" y="88" width="60" height="32" rx="16" fill="url(#accent)" transform="rotate(7 410 104)"/>
+  <text x="410" y="110" text-anchor="middle" fill="#10252c" font-family="Arial,sans-serif" font-size="13" font-weight="800">SAN</text>
+</g>
+<path d="M36 304H604" stroke="#b18cff" stroke-opacity=".4"/>
+<text x="38" y="338" fill="#f2f7f5" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing=".2">Sandbox</text>
+<text x="40" y="361" fill="#72d9e8" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">SECURITY OPERATIONS  ?  CYBERSECURITY</text>
+<text x="602" y="342" text-anchor="end" fill="#c4d5d4" fill-opacity=".65" font-family="Arial,sans-serif" font-size="12" font-weight="700">35 / 38</text>
+</svg>

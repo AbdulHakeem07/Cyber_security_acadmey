@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-labelledby="title desc">
+<title id="title">Threat actor cybersecurity illustration</title>
+<desc id="desc">Original abstract illustration for the Threat actor lesson in Threats.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102b32"/><stop offset="1" stop-color="#17263a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7b72"/><stop offset="1" stop-color="#ffb36b"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#ff7b72" stop-opacity=".27"/><stop offset="1" stop-color="#ff7b72" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" fill="none" stroke="#d5f7ef" stroke-opacity=".045"/></pattern>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="11" stdDeviation="12" flood-color="#030b12" flood-opacity=".45"/></filter>
+</defs>
+<rect width="640" height="380" rx="24" fill="url(#bg)"/>
+<rect width="640" height="380" rx="24" fill="url(#grid)"/>
+<circle cx="132" cy="103" r="210" fill="url(#glow)"/>
+<circle cx="502" cy="280" r="190" fill="url(#glow)"/>
+<path d="M463 274 Q434 288 406 222" stroke="#ff7b72" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M445 313 Q408 305 372 217" stroke="#ff7b72" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M111 117 Q257 124 403 52" stroke="#ff7b72" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M176 173 Q333 263 490 273" stroke="#ff7b72" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M316 230 Q295 234 275 159" stroke="#ff7b72" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M300 232 Q323 200 347 88" stroke="#ff7b72" stroke-opacity=".19" stroke-width="2" fill="none"/><circle cx="463" cy="274" r="4" fill="#ffb36b" fill-opacity=".58"/><circle cx="406" cy="222" r="4" fill="#ffb36b" fill-opacity=".43"/><circle cx="445" cy="313" r="6" fill="#ffb36b" fill-opacity=".49"/><circle cx="372" cy="217" r="6" fill="#ffb36b" fill-opacity=".40"/><circle cx="111" cy="117" r="5" fill="#ffb36b" fill-opacity=".29"/><circle cx="403" cy="52" r="3" fill="#ffb36b" fill-opacity=".61"/><circle cx="176" cy="173" r="6" fill="#ffb36b" fill-opacity=".51"/><circle cx="490" cy="273" r="4" fill="#ffb36b" fill-opacity=".40"/><circle cx="316" cy="230" r="5" fill="#ffb36b" fill-opacity=".31"/><circle cx="275" cy="159" r="3" fill="#ffb36b" fill-opacity=".28"/><circle cx="300" cy="232" r="3" fill="#ffb36b" fill-opacity=".32"/><circle cx="347" cy="88" r="5" fill="#ffb36b" fill-opacity=".54"/><circle cx="368" cy="262" r="3" fill="#ffb36b" fill-opacity=".65"/>
+<g filter="url(#shadow)">
+  <circle cx="320" cy="143" r="86" fill="#132b37" stroke="url(#accent)" stroke-width="3" stroke-opacity=".72"/>
+  <path d="M320 72 373 94v42c0 39-22 67-53 83-31-16-53-44-53-83V94l53-22Z" fill="#183440" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="320" cy="129" r="42" fill="#0e202d" fill-opacity=".72"/>
+  <path d="M320 95 352 151h-64z" fill="none" stroke="#ffb36b" stroke-width="5" stroke-linejoin="round"/><path d="M320 114v17m0 9v1" stroke="#ffb36b" stroke-width="5" stroke-linecap="round"/>
+  <rect x="380" y="88" width="60" height="32" rx="16" fill="url(#accent)" transform="rotate(10 410 104)"/>
+  <text x="410" y="110" text-anchor="middle" fill="#10252c" font-family="Arial,sans-serif" font-size="13" font-weight="800">TA</text>
+</g>
+<path d="M36 304H604" stroke="#ff7b72" stroke-opacity=".4"/>
+<text x="38" y="338" fill="#f2f7f5" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing=".2">Threat actor</text>
+<text x="40" y="361" fill="#ffb36b" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">THREATS  ?  CYBERSECURITY</text>
+<text x="602" y="342" text-anchor="end" fill="#c4d5d4" fill-opacity=".65" font-family="Arial,sans-serif" font-size="12" font-weight="700">19 / 38</text>
+</svg>

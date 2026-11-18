@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-labelledby="title desc">
+<title id="title">Distributed denial of service (DDoS) cybersecurity illustration</title>
+<desc id="desc">Original abstract illustration for the Distributed denial of service (DDoS) lesson in Network Defense.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102b32"/><stop offset="1" stop-color="#17263a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#45c7d7"/><stop offset="1" stop-color="#72e0c1"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#45c7d7" stop-opacity=".27"/><stop offset="1" stop-color="#45c7d7" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" fill="none" stroke="#d5f7ef" stroke-opacity=".045"/></pattern>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="11" stdDeviation="12" flood-color="#030b12" flood-opacity=".45"/></filter>
+</defs>
+<rect width="640" height="380" rx="24" fill="url(#bg)"/>
+<rect width="640" height="380" rx="24" fill="url(#grid)"/>
+<circle cx="146" cy="110" r="210" fill="url(#glow)"/>
+<circle cx="495" cy="275" r="190" fill="url(#glow)"/>
+<path d="M236 198 Q272 257 309 237" stroke="#45c7d7" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M97 128 Q133 230 170 253" stroke="#45c7d7" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M381 295 Q328 289 275 204" stroke="#45c7d7" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M416 61 Q306 137 196 134" stroke="#45c7d7" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M242 280 Q142 278 42 196" stroke="#45c7d7" stroke-opacity=".19" stroke-width="2" fill="none"/><path d="M494 107 Q377 253 261 319" stroke="#45c7d7" stroke-opacity=".19" stroke-width="2" fill="none"/><circle cx="236" cy="198" r="6" fill="#72e0c1" fill-opacity=".51"/><circle cx="309" cy="237" r="3" fill="#72e0c1" fill-opacity=".65"/><circle cx="97" cy="128" r="6" fill="#72e0c1" fill-opacity=".60"/><circle cx="170" cy="253" r="5" fill="#72e0c1" fill-opacity=".64"/><circle cx="381" cy="295" r="5" fill="#72e0c1" fill-opacity=".30"/><circle cx="275" cy="204" r="4" fill="#72e0c1" fill-opacity=".32"/><circle cx="416" cy="61" r="3" fill="#72e0c1" fill-opacity=".26"/><circle cx="196" cy="134" r="6" fill="#72e0c1" fill-opacity=".43"/><circle cx="242" cy="280" r="6" fill="#72e0c1" fill-opacity=".52"/><circle cx="42" cy="196" r="6" fill="#72e0c1" fill-opacity=".64"/><circle cx="494" cy="107" r="3" fill="#72e0c1" fill-opacity=".48"/><circle cx="261" cy="319" r="5" fill="#72e0c1" fill-opacity=".51"/><circle cx="111" cy="219" r="4" fill="#72e0c1" fill-opacity=".42"/>
+<g filter="url(#shadow)">
+  <circle cx="320" cy="143" r="86" fill="#132b37" stroke="url(#accent)" stroke-width="3" stroke-opacity=".72"/>
+  <path d="M320 72 373 94v42c0 39-22 67-53 83-31-16-53-44-53-83V94l53-22Z" fill="#183440" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="320" cy="129" r="42" fill="#0e202d" fill-opacity=".72"/>
+  <path d="M297 122h46M320 101v42m-23-21 23 21 23-21-23-21z" fill="none" stroke="#72e0c1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="297" cy="122" r="6" fill="#72e0c1"/><circle cx="343" cy="122" r="6" fill="#72e0c1"/><circle cx="320" cy="101" r="6" fill="#72e0c1"/><circle cx="320" cy="143" r="6" fill="#72e0c1"/>
+  <rect x="380" y="88" width="60" height="32" rx="16" fill="url(#accent)" transform="rotate(3 410 104)"/>
+  <text x="410" y="110" text-anchor="middle" fill="#10252c" font-family="Arial,sans-serif" font-size="10" font-weight="800">DDOS</text>
+</g>
+<path d="M36 304H604" stroke="#45c7d7" stroke-opacity=".4"/>
+<text x="38" y="338" fill="#f2f7f5" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing=".2">Distributed denial of service (DDoS)</text>
+<text x="40" y="361" fill="#72e0c1" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">NETWORK DEFENSE  ?  CYBERSECURITY</text>
+<text x="602" y="342" text-anchor="end" fill="#c4d5d4" fill-opacity=".65" font-family="Arial,sans-serif" font-size="12" font-weight="700">13 / 38</text>
+</svg>
